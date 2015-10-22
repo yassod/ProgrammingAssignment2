@@ -1,3 +1,4 @@
+#Programming Assignment 2, Week 3
 #This code includes one function that creates a "matrix" list object that
 #can cache the inverse of the matrix once it is calculated.
 #A second function calculates the inverse of the matrix created by the first 
